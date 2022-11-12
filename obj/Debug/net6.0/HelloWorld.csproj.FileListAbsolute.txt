@@ -1,0 +1,15 @@
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/cassio/Dropbox/Cassio/DEV/Cursos/C# - Trybe/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
